@@ -1,0 +1,7 @@
+*.idea/*
+*.log
+*.DS_Store
+*Thumbs.db
+*.sass-cache/
+node_modules
+*config.codekit
